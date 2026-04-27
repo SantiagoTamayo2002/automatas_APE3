@@ -20,6 +20,31 @@ const LAYOUTS = {
     q1: { x: 240, y: 150 },
     q2: { x: 400, y: 150 },
     q3: { x: 560, y: 150 },
+  },
+  pagos: {
+    inicial: { x: 80, y: 150 },
+    autorizado: { x: 210, y: 150 },
+    capturado: { x: 340, y: 150 },
+    completado: { x: 470, y: 150 },
+    cancelado: { x: 210, y: 240 },
+    error: { x: 470, y: 240 },
+  },
+  pedidos: {
+    q_init: { x: 50, y: 150 },
+    q_cre: { x: 150, y: 150 },
+    q_emp: { x: 250, y: 150 },
+    q_env: { x: 350, y: 150 },
+    q_ent: { x: 450, y: 150 },
+    q_dev: { x: 550, y: 150 },
+    q_can: { x: 200, y: 250 },
+  },
+  cerradura: {
+    q0: { x: 80, y: 100 },
+    q1: { x: 220, y: 100 },
+    q2: { x: 360, y: 100 },
+    q3: { x: 500, y: 100 },
+    q4: { x: 290, y: 220 },
+    block: { x: 620, y: 100 },
   }
 }
 

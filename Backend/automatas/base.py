@@ -96,6 +96,7 @@ class AFNDSimulator(ABC):
             )
         }
 
+
     def get_definition(self) -> Dict[str, Any]:
         """Retorna la definición formal del autómata para el frontend."""
         serializable_transitions = {}
