@@ -9,6 +9,9 @@ const AUTOMATA_META = {
   iot: { icon: '📡', color: '#00d4ff' },
   genetica: { icon: '🧬', color: '#a855f7' },
   ecommerce: { icon: '🛒', color: '#00ff88' },
+  pagos: { icon: '💳', color: '#ffb300' },
+  pedidos: { icon: '📦', color: '#ff5e00' },
+  cerradura: { icon: '🔒', color: '#ff0044' },
 }
 
 const S = {
